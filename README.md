@@ -1,2 +1,2 @@
-# nithesh.github.io
-Portfolio
+
+[About Me](https://nithesh.github.io/profile/)
