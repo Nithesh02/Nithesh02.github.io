@@ -1,2 +1,2 @@
 
-[About Me](https://nithesh.github.io/profile/)
+[About Me](https://nithesh02.github.io/)
